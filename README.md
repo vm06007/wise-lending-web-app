@@ -1,0 +1,1 @@
+# wise_lending_app_javascript
