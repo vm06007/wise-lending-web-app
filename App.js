@@ -167,7 +167,7 @@ const App = () => {
               component={HOME}
               options={{ headerShown: false }}
             />
-            <Stack.Screen
+            {/* <Stack.Screen
               name="Payouts1"
               component={Payouts1}
               options={{ headerShown: false }}
@@ -286,7 +286,7 @@ const App = () => {
               name="Frame41"
               component={Frame41}
               options={{ headerShown: false }}
-            />
+            /> */}
           </Stack.Navigator>
         ) : null}
       </NavigationContainer>
